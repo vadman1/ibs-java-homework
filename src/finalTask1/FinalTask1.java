@@ -2,7 +2,7 @@ package finalTask1;
 
 import java.util.Scanner;
 
-public class finalTask1 {
+public class FinalTask1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите текущий курс доллара:");

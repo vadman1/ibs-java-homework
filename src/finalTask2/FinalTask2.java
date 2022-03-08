@@ -2,7 +2,7 @@ package finalTask2;
 
 import java.util.Scanner;
 
-public class finalTask2 {
+public class FinalTask2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String str = scanner.next();
